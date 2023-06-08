@@ -15,12 +15,11 @@ Atualmente, estou trabalhando na área de infraestrutura, utilizando tecnologias
 ## Áreas de interesse
 
 - Desenvolvimento web com Java
-- Sistemas operacionais Linux
-- Banco de dados PostgreSQL
+- Administração de Sistemas Linux
+- Banco de dados SQL
 - Arquitetura de software
 - Segurança da informação
-- Machine Learning
-- Internet das Coisas (IoT)
+
 
 ## Experiência
 
