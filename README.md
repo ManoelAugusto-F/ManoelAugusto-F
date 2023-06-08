@@ -1,25 +1,39 @@
-## Olá, me chamo Manoel Augusto ! 🧔🏾
-### Bem vindo ao meu perfil GitHub 👋🏽
-***
- <p> Sou estudante de Sistema de informação no IFG.
- Atualmente trabalho como instrutor de informática em uma escola de curso profissionalizantes. 
- Estou me preparando para transição de carreira para área de Desenvolvimento web.</p>
+# README
 
-### Atualmente estou aprendendo 
+## Manoel Augusto - Desenvolvimento Web e Infraestrutura
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
+Olá, me chamo Manoel Augusto! 🧔🏾
 
-### Contatos
-<div>
-<a href="https://www.instagram.com/manoloaugusto69/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:manoelaugusto.ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/manoel-augusto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="mailto:manoelaugusto.ferreira@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>   
-<a href="https://twitter.com/manoel_august" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
+Bem-vindo ao meu perfil GitHub! 👋🏽
 
+## Sobre mim
 
-</div>
+Sou estudante de Sistemas de Informação no IFG e estou muito entusiasmado em compartilhar minha jornada de aprendizado e crescimento neste espaço.
 
+Atualmente, estou trabalhando na área de infraestrutura, utilizando tecnologias de nuvem e virtualização. Meu objetivo é fazer a transição para a área de Desenvolvimento Web.
+
+## Áreas de interesse
+
+- Desenvolvimento web com Java
+- Sistemas operacionais Linux
+- Banco de dados PostgreSQL
+- Arquitetura de software
+- Segurança da informação
+- Machine Learning
+- Internet das Coisas (IoT)
+
+## Experiência
+
+Anteriormente, atuei como instrutor de informática em uma escola de cursos profissionalizantes, onde tive a oportunidade de compartilhar meus conhecimentos com os alunos. Essa experiência foi valiosa para o meu desenvolvimento pessoal e profissional.
+
+Atualmente, estou estagiando na área de infraestrutura, onde tenho a oportunidade de trabalhar com tecnologias de nuvem e virtualização. Essa experiência tem sido muito enriquecedora, pois me permite entender a importância da infraestrutura para o bom funcionamento de sistemas e aplicativos.
+
+## Contatos
+
+- E-mail: [manoelaugusto.ferreira@gmail.com](mailto:manoelaugusto.ferreira@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/manoel-augusto/](https://www.linkedin.com/in/manoel-augusto/)
+- Website: Em construção
+
+Sinta-se à vontade para entrar em contato comigo para discutir projetos, oportunidades de colaboração ou apenas para trocar conhecimentos. Estou sempre em busca de novos desafios e aprendizados!
+
+Obrigado por visitar meu perfil. Vamos conectar e construir coisas incríveis juntos! 😄
