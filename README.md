@@ -1,38 +1,39 @@
-# README
+# Manoel Augusto - Segurança, Infraestrutura e Cloud
 
-## Manoel Augusto - Desenvolvimento Web e Infraestrutura
-
-Olá, me chamo Manoel Augusto! 🧔🏾
+Olá, eu sou o **Manoel Augusto**! 🧔🏾
 
 Bem-vindo ao meu perfil GitHub! 👋🏽
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação no IFG e estou muito entusiasmado em compartilhar minha jornada de aprendizado e crescimento neste espaço.
+Sou estudante de **Sistemas de Informação** no IFG e estou muito animado para compartilhar minha trajetória de aprendizado e evolução aqui com vocês.
 
-Atualmente, estou trabalhando na área de infraestrutura, utilizando tecnologias de nuvem e virtualização. Meu objetivo é fazer a transição para a área de Desenvolvimento Web.
+Atualmente, meu foco está na área de **segurança**, **infraestrutura** e **cloud computing**, com um grande interesse em tecnologias de **virtualização** e **monitoramento de sistemas**. Estou sempre em busca de melhorar minhas habilidades e expandir meu conhecimento, com o objetivo de fazer a diferença no campo da tecnologia.
 
-## Áreas de interesse
+Você pode conhecer um pouco mais sobre mim e minha jornada no meu site: [Bits de Conhecimento](https://bitsdeconhecimento.blog.br/sobre/).
 
-- Desenvolvimento web com Java
-- Administração de Sistemas Linux
-- Banco de dados SQL
-- Arquitetura de software
-- Segurança da informação
+## Habilidades
 
+- **Zabbix** e **Grafana** (Monitoramento de sistemas)
+- **Linux** e **Shell scripting** (Administração de sistemas)
+- **Cloud** (AWS, Azure, Google Cloud)
+- **Redes e Virtualização** (ESXi, VMware, KVM)
+- **DNS** e **DHCP** (Configuração e administração)
+- **Infraestrutura de TI** (Planejamento e execução de soluções de infraestrutura)
+- **Segurança da Informação** (Proteção de redes e sistemas, auditorias)
 
 ## Experiência
 
-Anteriormente, atuei como instrutor de informática em uma escola de cursos profissionalizantes, onde tive a oportunidade de compartilhar meus conhecimentos com os alunos. Essa experiência foi valiosa para o meu desenvolvimento pessoal e profissional.
+Antes de mergulhar no universo da infraestrutura e segurança, fui **instrutor de informática** em uma escola de cursos profissionalizantes, onde tive a chance de ensinar e aprender com meus alunos. Essa experiência foi essencial para meu crescimento, tanto profissional quanto pessoal.
 
-Atualmente, estou estagiando na área de infraestrutura, onde tenho a oportunidade de trabalhar com tecnologias de nuvem e virtualização. Essa experiência tem sido muito enriquecedora, pois me permite entender a importância da infraestrutura para o bom funcionamento de sistemas e aplicativos.
+Hoje, estou estagiando na área de **infraestrutura**, lidando com **nuvem** e **virtualização**, e acredito que essa experiência tem sido fundamental para compreender a importância da base sólida que a infraestrutura oferece para o bom funcionamento dos sistemas. Além disso, estou cada vez mais focado em **segurança da informação**, para garantir a integridade e proteção dos dados.
 
 ## Contatos
 
-- E-mail: [manoelaugusto.ferreira@gmail.com](mailto:manoelaugusto.ferreira@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/manoel-augusto/](https://www.linkedin.com/in/manoel-augusto/)
-- Website: Em construção
+- **E-mail**: manoelaugusto.ferreira@gmail.com
+- **LinkedIn**: [Manoel Augusto](https://www.linkedin.com/in/manoel-augusto/)
+- **Website**: [Bits de Conhecimento](https://bitsdeconhecimento.blog.br/sobre/)
 
-Sinta-se à vontade para entrar em contato comigo para discutir projetos, oportunidades de colaboração ou apenas para trocar conhecimentos. Estou sempre em busca de novos desafios e aprendizados!
+Fique à vontade para entrar em contato se quiser bater um papo sobre projetos, oportunidades ou trocar ideias. Estou sempre aberto a novos desafios e aprendizados!
 
-Obrigado por visitar meu perfil. Vamos conectar e construir coisas incríveis juntos! 😄
+Obrigado por visitar meu perfil. Vamos nos conectar e criar coisas incríveis juntos! 😄
