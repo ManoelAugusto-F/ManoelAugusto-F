@@ -20,7 +20,7 @@ Você pode conhecer um pouco mais sobre mim e minha jornada no meu site: [Bits d
 - **Redes e Virtualização** (ESXi, VMware, KVM)
 - **DNS** e **DHCP** (Configuração e administração)
 - **Infraestrutura de TI** (Planejamento e execução de soluções de infraestrutura)
-- **Segurança da Informação** (Proteção de redes e sistemas, auditorias)
+- **Segurança da Informação** (Proteção de redes e sistemas)
 
 ## Experiência
 
